@@ -1,2 +1,4 @@
 # OpenGl-Icosahedron
-Creating an Icosahedron by drawing triangles
+
+Drawing an Icosahedron by using triangle.
+Triangle's vertices and indices in the .cpp file
